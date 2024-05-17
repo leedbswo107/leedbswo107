@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
-
+![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)  
 **🛠️ Infra and Tools**
 
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) -->
