@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <!-- Body -->
 
 ### 🦾 Skills
-**:star: 능숙한 것**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 <!-- ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black) -->
 <!-- ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) -->
@@ -37,17 +36,17 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) -->
 <!-- ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) -->
 
 <!-- ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 
-**:heart: 관심있는 것**
+**🐌 추가 학습 중**
 
 ![bootstrap](https://img.shields.io/badge/bootstrap-6D4C9F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![mongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)  
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)  
@@ -79,3 +78,4 @@ Here are some ideas to get you started:
 |프로젝트명|맡은 역할|사용언어 및 프레임워크|GitHub 주소|
 |:-------:|:-------:|:------:|:----------:|
 |냉장고를부탁해!|프론트엔드|dart flutter|[냉장고를 부탁해!](https://github.com/osamhack2022-v2/APP_FreshPlus_TakeCareMyRefrigerator)|
+|Campick|프론트엔드,백엔드|React.js|[Campick](https://github.com/team4-campick/campick-client)|
