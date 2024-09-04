@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/bootstrap-6D4C9F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
-![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)  
+![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)  
 **🛠️ Infra and Tools**
 
