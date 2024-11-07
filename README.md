@@ -14,21 +14,28 @@ Here are some ideas to get you started:
 -->
 <!-- Header 인삿말-->
 
+
+
 <!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient) -->
 
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Engineer&reversal=false&fontAlign=50&textBg=false&animation=twinkling&desc=for%20Frontend&descAlignY=65&fontAlignY=45)
+<!-- ![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Engineer&reversal=false&fontAlign=50&textBg=false&animation=twinkling&desc=for%20Frontend&descAlignY=65&fontAlignY=45) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedbswo107&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 🙇 안녕하세요! Michael 입니다!
+🔭 프론트엔드 기술을 학습 중입니다.
 
-### 🙇 안녕하세요, Frontend-Engineer 로 성장해나가고 있는 Michael 입니다!
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedbswo107&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedbswo107&show_icons=true&theme=dracula)
+
 <!-- * 프론트엔드  -->
 
 <!-- 소개 및 수상 내역 관련적기 -->
 
 <!-- Body -->
 
-### 🦾 Skills
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
+## 🦾 Skills
 <!-- ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black) -->
 <!-- ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) -->
 <!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
@@ -38,6 +45,8 @@ Here are some ideas to get you started:
 <!-- ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) -->
 <!-- ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) -->
 <!-- ![mongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) -->
+
+#### **📚 학습한 내용**
 
 <p>
   <a href="https://skillicons.dev">
@@ -49,7 +58,7 @@ Here are some ideas to get you started:
 
 <!-- ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 
-**🐌 추가 학습 중**
+#### **🐌 추가 학습 중**
 
 <!-- ![bootstrap](https://img.shields.io/badge/bootstrap-6D4C9F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![node.js](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)  -->
@@ -64,7 +73,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**🛠️ Infra and Tools**
+#### **🛠️ Infra and Tools**
 
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) -->
 <!-- ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) -->
@@ -82,7 +91,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm,figma,notion" />
   </a>
 </p>
 
@@ -94,8 +103,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedbswo107&layout=compact) -->
 <!-- Footer (x) 요새는 끝까지 글을 읽는 사람이 많이 없어서 헤더에 다 넣는 추세. -->
 
-### 포트폴리오
-|프로젝트명|맡은 역할|사용언어 및 프레임워크|GitHub 주소|
+## 포트폴리오
+|프로젝트명|맡은 역할|주 언어 및 기술|GitHub 주소|
 |:-------:|:-------:|:------:|:----------:|
-|냉장고를부탁해!|프론트엔드|dart flutter|[냉장고를 부탁해!](https://github.com/osamhack2022-v2/APP_FreshPlus_TakeCareMyRefrigerator)|
-|Campick|프론트엔드,백엔드|React.js|[Campick](https://github.com/team4-campick/campick-client)|
+|냉장고를부탁해!|프론트엔드|![skills](https://skillicons.dev/icons?i=dart,flutter)|[냉장고를 부탁해!](https://github.com/osamhack2022-v2/APP_FreshPlus_TakeCareMyRefrigerator)|
+|Campick|프론트엔드,백엔드|![skills](https://skillicons.dev/icons?i=react,nodejs,mongodb)|[Campick](https://github.com/team4-campick/campick-client)|
