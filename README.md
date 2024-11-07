@@ -107,4 +107,4 @@ Here are some ideas to get you started:
 |프로젝트명|맡은 역할|주 언어 및 기술|GitHub 주소|
 |:-------:|:-------:|:------:|:----------:|
 |냉장고를부탁해!|프론트엔드|![skills](https://skillicons.dev/icons?i=dart,flutter)|[냉장고를 부탁해!](https://github.com/osamhack2022-v2/APP_FreshPlus_TakeCareMyRefrigerator)|
-|Campick|프론트엔드,백엔드|![skills](https://skillicons.dev/icons?i=react,nodejs,mongodb)|[Campick](https://github.com/team4-campick/campick-client)|
+|Campick|프론트엔드,백엔드|![skills](https://skillicons.dev/icons?i=react,nodejs,mongodb)|[Campick](https://github.com/team4-campick/campick-client) <br/> [Campick_v2](https://github.com/leedbswo107/campick-client-v2)|
