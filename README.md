@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,redux,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,redux,typescript,nextjs" />
   </a>
 </p>
 
