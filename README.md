@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedbswo107&layout=compact) -->
 <!-- Footer (x) 요새는 끝까지 글을 읽는 사람이 많이 없어서 헤더에 다 넣는 추세. -->
 
-## 포트폴리오
+## Projects
 |프로젝트명|맡은 역할|주 언어 및 기술|GitHub 주소|
 |:-------:|:-------:|:------:|:----------:|
 |냉장고를부탁해!|프론트엔드|![skills](https://skillicons.dev/icons?i=dart,flutter)|[냉장고를 부탁해!](https://github.com/osamhack2022-v2/APP_FreshPlus_TakeCareMyRefrigerator)|
