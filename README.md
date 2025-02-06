@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm,figma,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
   </a>
 </p>
 
