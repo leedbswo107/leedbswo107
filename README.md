@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,mongodb" />
   </a>
 </p>
 <!-- ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) -->
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,redux,nextjs,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,styledcomponents,tailwind" />
   </a>
 </p>
 
