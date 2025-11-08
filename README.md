@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedbswo107&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedbswo107&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedbswo107&show_icons=true&theme=dracula) -->
 
 <!-- * 프론트엔드  -->
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <!-- ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 
 <!-- #### **🐌 추가 학습 중** -->
-<br/>
+<!-- <br/> -->
 <!-- ![bootstrap](https://img.shields.io/badge/bootstrap-6D4C9F.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![node.js](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)  -->
 <!-- ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)  -->
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- #### **🛠️ Infra and Tools** -->
-<br/>
+<!-- <br/> -->
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) -->
 <!-- ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) -->
 <!-- ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) -->
