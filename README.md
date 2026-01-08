@@ -97,9 +97,10 @@ Here are some ideas to get you started:
 
 ##
 
-|🚌 Top Langs|🚩 Algorithm Ranking|
-|------------|-------------|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedbswo107&layout=compact)|[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=leedbswo107)](https://solved.ac/profile/leedbswo107)|
+<!--|🚌 Top Langs|🚩 Algorithm Ranking| -->
+<!--|------------|-------------| -->
+<!-- |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedbswo107&layout=compact)| | -->
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=leedbswo107)](https://solved.ac/profile/leedbswo107)
 <!-- 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedbswo107&layout=compact) -->
